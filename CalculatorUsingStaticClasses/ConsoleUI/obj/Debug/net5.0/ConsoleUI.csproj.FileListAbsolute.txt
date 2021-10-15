@@ -1,0 +1,15 @@
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/bin/Debug/net5.0/ConsoleUI.deps.json
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/bin/Debug/net5.0/ConsoleUI.runtimeconfig.json
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/bin/Debug/net5.0/ConsoleUI.runtimeconfig.dev.json
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/bin/Debug/net5.0/ConsoleUI.dll
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/bin/Debug/net5.0/ref/ConsoleUI.dll
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/bin/Debug/net5.0/ConsoleUI.pdb
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.AssemblyInfo.cs
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.dll
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ref/ConsoleUI.dll
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.pdb
+/Users/stevenbaughman/Documents/Projects/CalculatorUsingStaticClasses/ConsoleUI/obj/Debug/net5.0/ConsoleUI.genruntimeconfig.cache
